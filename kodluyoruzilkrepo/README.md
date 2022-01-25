@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![Proje resimi](https://github.com/kerimcoskun/kodluyoruzilkrepo/blob/main/projegoruntu/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG?raw=true)
 
-## Istallation
+## Installation
 
 Öncelikle projeyi clonelayın.`
 
